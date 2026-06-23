@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia prohibida
+
+This log tracks the cryptographic history and versioning for the song **Caricia prohibida** (caricia-prohibida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:13:31.618393 | `v1` | `f92da536bd47001811000893bb39f10c42fedd1950769c9fee34e07de0517188` | `029c731fc0ab360405eb3297627cb1672c454c96964f65d8f4fcbca49106aba7` | `2026-06-23_caricia-prohibida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

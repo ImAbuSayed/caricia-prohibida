@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ven, dame esa caricia prohibida
+> En la noche oscura, tú eres mi salida
+> El ritmo nos envuelve, no hay despedida
+> Baby, esta pasión no tiene medida
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
